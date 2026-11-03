@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" role="img" aria-label="2ГИС">
+  <defs><clipPath id="tile"><rect width="48" height="48" rx="13"/></clipPath></defs>
+  <g clip-path="url(#tile)"><path fill="#f5d52f" d="M0 0h48v17H0z"/><path fill="#48b76a" d="M0 17h48v16H0z"/><path fill="#9bd75c" d="M0 33h48v15H0z"/><path fill="#fff" d="m0 16 48 1v2L0 18zM0 32l48 1v2L0 34z"/></g>
+  <path d="M24 7c-8 0-13.4 5.7-13.4 13.2 0 8.8 13.4 21.8 13.4 21.8s13.4-13 13.4-21.8C37.4 12.7 32 7 24 7Z" fill="#1685c7" stroke="#fff" stroke-width="2.5"/>
+  <circle cx="24" cy="19.5" r="4" fill="#fff"/>
+</svg>
